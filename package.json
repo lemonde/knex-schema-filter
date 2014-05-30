@@ -1,6 +1,6 @@
 {
   "name": "knex-schema-filter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Knex schema filter by table name",
   "main": "lib/filter.js",
   "scripts": {
