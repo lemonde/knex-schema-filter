@@ -1,6 +1,6 @@
 {
   "name": "knex-schema-filter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "knex-schema-filter ==================",
   "main": "lib/filter.js",
   "scripts": {
