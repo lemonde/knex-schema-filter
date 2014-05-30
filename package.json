@@ -1,7 +1,7 @@
 {
   "name": "knex-schema-filter",
   "version": "0.0.2",
-  "description": "knex-schema-filter ==================",
+  "description": "Knex schema filter by table name",
   "main": "lib/filter.js",
   "scripts": {
     "test": "NODE_ENV=test mocha --recursive",
